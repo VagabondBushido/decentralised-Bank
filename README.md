@@ -67,7 +67,7 @@ React • Chakra UI • ethers.js • Web3.js
 ### Backend
 <img src="https://skillicons.dev/icons?i=solidity,nodejs" alt="Backend Technologies" />
 <br />
-Solidity • Hardhat • OpenZeppelin
+Solidity • Foundry • OpenZeppelin
 
 </div>
 
@@ -108,6 +108,7 @@ cd decentralised-Bank
 
 # Install dependencies
 npm install
+forge install
 
 # Start local development
 npm run dev
