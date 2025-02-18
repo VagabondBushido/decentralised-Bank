@@ -15,8 +15,6 @@
 
 <br />
 
-<img src="https://img.youtube.com/vi/zvCgCukIsIs/maxresdefault.jpg" alt="DApp Demo" width="800"/>
-
 </div>
 
 ## ⚡ Features
@@ -49,8 +47,12 @@
 ## 🎥 Live Demo
 
 <div align="center">
-  <h3><a href="https://www.youtube.com/watch?v=zvCgCukIsIs">Watch Demo Video</a></h3>
-  <p>See our DApp in action!</p>
+  <a href="https://www.youtube.com/watch?v=zvCgCukIsIs">
+    <img src="https://img.youtube.com/vi/zvCgCukIsIs/maxresdefault.jpg" 
+      alt="Decentralised Bank Demo" 
+      style="width:100%; max-width:800px;" />
+  </a>
+  <p>👆 Click the image above to watch the demo video</p>
 </div>
 
 ## 🛠 Tech Stack
