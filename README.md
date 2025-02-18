@@ -171,7 +171,7 @@ npm run dev
 Released under the MIT License
 <br />
 <br />
-<sub>Built with ❤️ by [VagabondBushido](https://github.com/VagabondBushido)</sub>
+<sub>Built with ❤️ by VagabondBushido</sub>
 </div>
 
 ---
