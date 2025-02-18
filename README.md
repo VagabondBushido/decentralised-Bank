@@ -1,146 +1,223 @@
-# 🏦 Simple Bank DApp
+<h1 align="center">
+  <br>
+  <a href="https://github.com/VagabondBushido/decentralised-Bank">
+    <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/logo.png" alt="Decentralised Bank" width="200">
+  </a>
+  <br>
+  Decentralised Bank
+  <br>
+</h1>
 
-<div align="center">
-
-![Banner](https://user-images.githubusercontent.com/your-username/simple-bank-dapp/banner.png)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.0-363636.svg)](https://soliditylang.org/)
-[![React](https://img.shields.io/badge/React-18.0.0-61DAFB.svg)](https://reactjs.org/)
-[![Chakra UI](https://img.shields.io/badge/Chakra%20UI-2.0.0-319795.svg)](https://chakra-ui.com/)
+<h4 align="center">A Modern Web3 Banking Experience Built on <a href="https://ethereum.org" target="_blank">Ethereum</a></h4>
 
 <p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-demo">Demo</a> •
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-architecture">Architecture</a>
+  <a href="#key-features">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge" alt="Project Status" />
+  </a>
+  <a href="#how-to-use">
+    <img src="https://img.shields.io/badge/PLATFORM-WEB-blue?style=for-the-badge" alt="Platform" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge" alt="License" />
+  </a>
 </p>
 
-</div>
-
-## ✨ Features
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/simple-bank-dapp/features.gif" alt="Features Animation" />
-</div>
-
-- 🔐 **Secure Wallet Connection**: Seamless MetaMask integration
-- 💸 **Easy Transactions**: Deposit, withdraw, and transfer ETH
-- 🎨 **Modern UI/UX**: Built with Chakra UI for a sleek experience
-- ⚡ **Real-time Updates**: Instant balance and transaction feedback
-- 🌐 **Web3 Ready**: Full blockchain integration
-- 🛡️ **Smart Contract Security**: Foundry-tested smart contracts
-
-## 🎬 Demo
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#credits">Credits</a>
+</p>
 
 <div align="center">
-  
-[![Simple Bank DApp Demo](https://img.youtube.com/vi/zvCgCukIsIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=zvCgCukIsIs)
-
+  <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/banner.gif" alt="product-banner" width="800" />
 </div>
 
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/simple-bank-dapp.git
-
-# Install dependencies
-cd simple-bank-dapp
-npm install
-
-# Configure environment
-cp .env.example .env
-# Add your environment variables
-
-# Start the development server
-npm run dev
-```
-
-## 🛠 Tech Stack
+## ⚡ Key Features
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" />
-        <br>Solidity
+        <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/wallet.gif" width="64" />
+        <br />
+        <b>Secure Wallet</b>
+        <br />
+        MetaMask Integration
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-        <br>React
+        <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/transaction.gif" width="64" />
+        <br />
+        <b>Fast Transactions</b>
+        <br />
+        Instant Transfers
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" />
-        <br>Chakra UI
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="ethers.js" />
-        <br>ethers.js
+        <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/security.gif" width="64" />
+        <br />
+        <b>Bank Grade Security</b>
+        <br />
+        Audited Smart Contracts
       </td>
     </tr>
   </table>
 </div>
 
-### Frontend
-- ⚛️ React 18
-- 🎨 Chakra UI
-- 🌐 ethers.js
-- 🔄 Framer Motion
+## 🎥 Demo
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=zvCgCukIsIs">
+    <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/demo-preview.png" alt="Demo Video" width="800">
+  </a>
+  <p>👆 Click the image above to watch the demo video</p>
+</div>
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,react,nodejs,vite" alt="Tech Stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
+</div>
 
 ### Smart Contract
-- 📝 Solidity
-- 🛠 Foundry
-- 🧪 Forge (testing)
+```solidity
+// Simplified view of our main contract
+contract DecentralisedBank {
+    mapping(address => uint256) public balances;
+    
+    event Deposit(address indexed user, uint256 amount);
+    event Withdrawal(address indexed user, uint256 amount);
+    event Transfer(address indexed from, address indexed to, uint256 amount);
+    
+    function deposit() public payable {
+        balances[msg.sender] += msg.value;
+        emit Deposit(msg.sender, msg.value);
+    }
+    // ... more functions
+}
+```
 
-## 📐 Architecture
+## 💫 How To Use
+
+<div align="center">
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FVagabondBushido%2Fdecentralised-Bank)
+
+</div>
+
+```bash
+# Clone this repository
+$ git clone https://github.com/VagabondBushido/decentralised-Bank
+
+# Install dependencies
+$ cd decentralised-Bank
+$ npm install
+
+# Run the dapp
+$ npm run dev
+```
+
+## 🌐 Architecture
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/architecture.svg" alt="Architecture Diagram" width="600" />
+</div>
 
 ```mermaid
-graph TD
-    A[Frontend - React] -->|Web3| B[MetaMask]
-    B -->|RPC| C[Ethereum Network]
-    C -->|Interact| D[SimpleBank Contract]
+flowchart TD
+    A[Web Interface] -->|Web3.js| B[MetaMask]
+    B -->|JSON-RPC| C[Ethereum Network]
+    C -->|Smart Contract| D[Decentralised Bank]
     D -->|Events| A
 ```
 
-## 🔐 Security
+## 🔐 Security Features
 
-- ✅ Smart contract audited
-- 🔒 Environment variables protection
-- 🛡️ Input validation
-- ⚡ Gas optimization
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/audit.png" width="64" />
+        <br />
+        <b>Audited Code</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/encryption.png" width="64" />
+        <br />
+        <b>Encrypted Data</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/protection.png" width="64" />
+        <br />
+        <b>Attack Protection</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 💡 Implementation Details
+## ⭐ Key Benefits
 
-The DApp consists of two main components:
+- 🏦 **Decentralized Banking**: No central authority
+- 💸 **Low Fees**: Minimal transaction costs
+- 🔒 **Security First**: Built with security in mind
+- ⚡ **Fast Transactions**: Quick transfer times
+- 🌐 **Global Access**: Available worldwide
+- 📱 **Mobile Ready**: Responsive design
 
-1. **Smart Contract (`SimpleBank.sol`)**
-   - Manages user balances
-   - Handles deposits/withdrawals
-   - Processes transfers
-   - Emits events for frontend updates
+## 🎯 Roadmap
 
-2. **Frontend Application**
-   - Modern React architecture
-   - Real-time blockchain interactions
-   - Responsive design
-   - Error handling and feedback
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">✅</td>
+      <td>Smart Contract Development</td>
+    </tr>
+    <tr>
+      <td align="center">✅</td>
+      <td>Web Interface</td>
+    </tr>
+    <tr>
+      <td align="center">🏗️</td>
+      <td>Mobile App Integration</td>
+    </tr>
+    <tr>
+      <td align="center">📅</td>
+      <td>Multi-chain Support</td>
+    </tr>
+  </table>
+</div>
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/contributing.gif" alt="Contributing" width="300" />
+</div>
 
-## 📝 License
+1. Fork it (<https://github.com/VagabondBushido/decentralised-Bank/fork>)
+2. Create your feature branch (`git checkout -b feature/amazing`)
+3. Commit your changes (`git commit -am 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing`)
+5. Create a new Pull Request
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📜 License
+
+<div align="center">
+  
+Released under the [MIT](LICENSE) License
+
+<br />
+
+<img src="https://raw.githubusercontent.com/VagabondBushido/decentralised-Bank/main/assets/thank-you.gif" alt="Thank You" width="200" />
+
+<br />
+
+<sub>Built with ❤️ by [VagabondBushido](https://github.com/VagabondBushido)</sub>
+
+</div>
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by your-name</sub>
-</div>
+> GitHub [@VagabondBushido](https://github.com/VagabondBushido) &nbsp;&middot;&nbsp;
+> Twitter [@VagabondBushido](https://twitter.com/VagabondBushido)
